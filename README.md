@@ -1,1 +1,1 @@
-# PetFriends_Tests_task-19.7.2
+Тестирование API сайта petfriends1.herokuapp.com на основе документации https://petfriends1.herokuapp.com/apidocs/#/
